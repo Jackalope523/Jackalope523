@@ -4,11 +4,8 @@
 ### But for now I am working on...
 
 #### CANARY
-
 The deadest meetup app on the app store. [Check it out](https://almostcanary.com/).
-
 #### Project Cardinal (Working Title Top Secret)
-
 The app that should make keeping in touch with grandma not a chore that you never get to.
 
 
