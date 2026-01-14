@@ -4,9 +4,9 @@
 ## But for now I am working on...
 
 #### CANARY
-The deadest meetup app on the app store. [Check it out](https://almostcanary.com/).
-#### Project Cardinal (Working Title Top Secret)
-The app that should make keeping in touch with grandma not a chore that you never get to.
+Instantly see what is going on nearby in your city. This app has been decommissioned. [Check it out](https://almostcanary.com/).
+#### Cher Ami
+Every month, transform your family's photos and stories into a beautiful magazine, delivered to those you love. [Check it out](https://www.thecherami.com/).
 
 
 ## What I use...
