@@ -1,7 +1,7 @@
 # One day I will swallow up the world 🏝️
 
 
-## But for now I am working on...
+## Projects:
 
 #### CANARY
 Instantly see what is going on nearby in your city. This app has been decommissioned. [Check it out](https://almostcanary.com/).
