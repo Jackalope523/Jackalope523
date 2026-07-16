@@ -1,5 +1,6 @@
 # Skiing Slopes & Shipping Code 💻☕⛷️ 
 ## Commercial Projects
+---
 #### Cher Ami
 Every month, transform your family's photos and stories into a beautiful magazine, delivered to those you love. [Check it out](https://www.thecherami.com/).
 #### CANARY
